@@ -10,4 +10,4 @@ The code does the following
 
 Run ALLRUN.m 
 
-To employ the model for flow control using existing CFD codes please contact [me](www.linedIn.com/in/nitiesharya)
+To employ the model for flow control using existing CFD codes please contact [me](https://www.linkedin.com/in/nitiesharya)
